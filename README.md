@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/bcarbaugh/SpaceGame%20-%20web%20-%20Pipeline/_apis/build/status/ben-carbaugh.mslearn-tailspin-spacegame-web%20(1)?branchName=main)](https://dev.azure.com/bcarbaugh/SpaceGame%20-%20web%20-%20Pipeline/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
